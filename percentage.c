@@ -20,7 +20,7 @@ int main()
     float m2 = 28;
     float m3 = 32;
     float m4 = 21;
-    float perce = (m1 + m2 + m3 + m4) / 4;
+    float perce = (m1 + m2 + m3 + m4) / 4; 
     printf("Percentage is %f \n", perce);
     return 0;
 }
