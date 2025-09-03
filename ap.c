@@ -7,6 +7,7 @@ int main(){
         printf("%d \n",i);
         // a = a-3;
     }
+}
 
     return 0;
 }
