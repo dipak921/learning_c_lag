@@ -20,5 +20,17 @@ int main()
         printf("\n");
     }
 
+    //OUTPUT
+    //Enter a number :7
+        // *   
+        // *   
+        // *   
+        // *******
+        // *   
+        // *   
+        // *
+
+        
+
     return 0;
 }
