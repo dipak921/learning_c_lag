@@ -1,25 +1,30 @@
 #include<stdio.h>
 int main()
 {
-    char s;
-    printf("enter array size :");
-    scanf("%c", &s);
-    int seat[s];
+    // char letter[] = {'d','i','p','a','k'};
+    // //printf("%c", letter[2]);
+    // for ( int i = 0; i<=5; i++)
+    // {
+    //     printf("%c ",letter[i]);
+    // }
 
-    // array store form user input
-    printf("enter a element : ");
-    for (char i = 0; i<s; i++)
-    {
-        scanf("%c",&seat[i]);
-    }
-
-    printf("ARRAY IS GIVEN :");
-    //print array3
-    for ( char i = 0; i<s; i++)
-    {
-        printf("%c ",seat[i]);
-    }
+    int s;
+    printf("Enter a size :");
+    scanf("%d",&s);
     
+    char letter[5];
+   printf("Print array is  :");
+    for (int  i=0; i<s; i++)
+    {
+        scanf(" %c",&letter[i]);
+    }
+    printf("character array is  :");
+    for (int  i=0; i<s; i++)
+    {
+        printf("%c ",letter[i] );
+    }
+
+
 
 
 

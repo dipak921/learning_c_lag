@@ -15,7 +15,6 @@ int main()
                 a[j] = a[j+1];
                 a[j+1] = temp;
             }
-
         }
       
         printf("%d ",a[i]);
