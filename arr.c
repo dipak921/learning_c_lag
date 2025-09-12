@@ -13,6 +13,8 @@ int main()
     //     printf("%d ", a[2]);
     // }
 
+    // end program
+
     // printf("\n");
     // int marks[4];
     // printf("enter marks phy : ");

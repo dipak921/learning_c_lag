@@ -28,7 +28,8 @@ int main()
 //  END OF PROGRAM 
 
 
-    char emp_name[3][10];
+    char emp_name[3][10
+    ];
     printf("enter name of emp: ");
     for(int i=0; i<3; i++)
     {
