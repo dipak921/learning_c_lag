@@ -6,10 +6,5 @@ int main()
     int x; 
     printf("\n%d",x);
 
-
-
-
-
-
     return 0;
 }
