@@ -39,9 +39,26 @@ int main()
     // z=y && (y!=10);
     // printf("%d",z);
 
-    int x = 2, y = 0, z;
-    z = (y++, y);
-    printf("%d", z);
+    // int x = 2, y = 0, z;
+    // z = (y++, y);
+    // printf("%d", z);
+
+
+    //
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
     return 0;
 }
